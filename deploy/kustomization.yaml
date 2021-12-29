@@ -7,4 +7,4 @@ images:
 - name: 241442071922.dkr.ecr.us-west-2.amazonaws.com/test
   newTag: 050b0d805ebe2c4dd78be80afae7cd569c333057
 - name: 280389627074.dkr.ecr.us-west-2.amazonaws.com/test
-  newTag: 994495f14e3240e394cbc10d991677de5ad2528e
+  newTag: 8890d0bd2f4ffa3307b981f36b9b1f683a4eeb35
