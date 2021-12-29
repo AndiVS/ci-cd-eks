@@ -9,7 +9,7 @@ import (
 
 func main() {
 	// ====== Здесь добавили лог =====
-	logrus.Info("run app")
+	logrus.Info("run appsa")
 	// ===============================
 	e := echo.New()
 	e.GET("/", func(c echo.Context) error {
